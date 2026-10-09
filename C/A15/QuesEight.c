@@ -1,0 +1,1 @@
+//pascal trinagle is question from assignment 12 7th and i don't know how to build it
